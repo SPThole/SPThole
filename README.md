@@ -6,7 +6,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SPThole&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPThole&show_icons=true&theme=radical&cache_seconds=1800)
 
 ### 🔥 Streak
 
